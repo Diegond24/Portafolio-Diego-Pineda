@@ -21,6 +21,6 @@
 
 ### Mi logo:
 
-![]( )
+> <img src='/images/Pineda TECH.png' width='150' height='250' alt='Logotipo'>
 
 <p> Y practicando y aprendiendo mas lenguajes: </p>
