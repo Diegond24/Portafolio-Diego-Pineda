@@ -7,7 +7,7 @@
 
 ## Bienvenidos a mi ***Portafolio*** :rocket: 🔥 :computer: :keyboard:
 
-<img src=''>
+> <img src='/images/Diego.jpg' width='150' height='250' alt='Foto de Diego'>
 
 <p>Algunos proyectos que se realizaran: </p>
 
